@@ -1,0 +1,1 @@
+https://www.notion.so/10-OOP-as-it-Should-Be-Concepts-2cb3b5650a9180ee97e1f5a5875c41f3
