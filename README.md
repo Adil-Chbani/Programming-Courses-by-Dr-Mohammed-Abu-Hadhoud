@@ -2,7 +2,7 @@
 
 <div align="center">
   
-![Programming Roadmap](your-roadmap-image-url-here.png)
+![Programming Roadmap](https://uploads.teachablecdn.com/attachments/jlJAuzdhQsaQppzKYUR9_1000116077.png)
 
 **A Complete Programming Journey from Foundations to Professional Development**
 
