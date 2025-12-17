@@ -197,25 +197,6 @@ His courses have helped thousands of students transform from beginners to profes
 
 ---
 
-## 🚀 Getting Started
-
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/yourusername/programming-courses-abu-hadhoud.git
-   cd programming-courses-abu-hadhoud
-   ```
-
-2. **Follow the Path**
-   - Start with Stage 1 if you're a beginner
-   - Progress sequentially through each course
-   - Complete all exercises and projects
-
-3. **Track Your Progress**
-   - Mark completed courses with ✅
-   - Document your learnings in each folder
-   - Build projects to reinforce concepts
-
----
 
 ## 📚 Resources & References
 
