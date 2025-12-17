@@ -201,9 +201,8 @@ His courses have helped thousands of students transform from beginners to profes
 ## 📚 Resources & References
 
 - 🌐 [Programming Advices Website](https://programmingadvices.com)
-- 📺 [Dr. Abu-Hadhoud's YouTube Channel](#)
-- 💬 [Community Discord/Forum](#)
-- 📖 [Course Documentation](#)
+- 📺 [Dr. Abu-Hadhoud's YouTube Channel](https://www.youtube.com/@ProgrammingAdvices)
+
 
 ---
 
@@ -243,7 +242,5 @@ Remember:
 ### ⭐ If you find this roadmap helpful, please star this repository!
 
 **Made with ❤️ by a dedicated learner following Dr. Abu-Hadhoud's teachings**
-
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=yourusername.programming-courses)
 
 </div>
